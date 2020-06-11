@@ -2,7 +2,7 @@
 
 To run either of the jupyter notebook on local machine the [installation](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md) instructions need to be followed.
 
-The [Object detection in Images](https://colab.research.google.com/drive/1tULD2dXLhrC3UNs3ZAX181y6Y4MRCMnu?usp=sharing) and [Image Segmentation]() can be run on google colab fromt the following links
+The [Object detection in Images](https://colab.research.google.com/drive/1tULD2dXLhrC3UNs3ZAX181y6Y4MRCMnu?usp=sharing) and [Image Segmentation](https://colab.research.google.com/drive/1m90YN6goUe1-sUvIVAwmo8eH8eaR5uhl?usp=sharing) can be run on google colab fromt the following links
 The [object detection on live video](https://github.com/datasciencemachine/object-detection-instance-segmentation/blob/trials/object_detection/Object-detection%20in%20live%20video.ipynb) file can only be run on local machine as google colab cannot read from webcam.
 
 ## ISSUES:
